@@ -1,130 +1,101 @@
-HR Analytics Dashboard 📊
-Project Overview
+# HR Analytics Dashboard 📊
 
-This project focuses on analyzing employee attrition using HR data to identify key factors that influence employee turnover. The dashboard helps HR teams and management make data-driven decisions to improve employee retention, hiring strategies, and workforce productivity.
+## Project Overview
+This project focuses on analyzing employee attrition using HR data to identify key factors influencing employee turnover. The dashboard enables HR teams and management to make data-driven decisions to improve employee retention, hiring processes, and overall workforce productivity.
 
-Tools & Technologies Used
+---
 
-Power BI
+## Tools & Technologies Used
+- Power BI
+- Power Query
+- DAX
+- Excel / CSV Dataset
 
-Power Query
+---
 
-DAX
+## Project Workflow
 
-Excel / CSV Dataset
+### 1. Data Cleaning & Processing
+- Cleaned raw HR data using Power Query
+- Removed duplicates and handled missing values
+- Standardized column names and data types
 
-Project Workflow
-1. Data Cleaning & Processing
+### 2. Data Import in Power BI
+- Imported HR dataset into Power BI
+- Verified data structure and accuracy
 
-Cleaned raw HR data using Power Query
+### 3. Power Query Transformations
+- Transformed data using Power Query Editor
+- Created calculated columns for analysis
 
-Removed duplicates and handled missing values
+### 4. DAX Measures & Calculations
+- Attrition Count
+- Attrition Rate
+- Average Age
+- Average Salary
+- Years at Company
+- Attrition by Job Role, Age, Gender, and Salary Slab
 
-Standardized data types and column names
+### 5. Dashboard Setup
+- Defined KPIs and business requirements
+- Designed dashboard layout and theme
 
-2. Data Import in Power BI
+### 6. Charts & Visualizations
+- KPI Cards
+- Bar Charts
+- Line Charts
+- Donut Charts
+- Tables for job role analysis
 
-Imported HR dataset into Power BI
+### 7. Filters & Slicers
+- Department-wise slicers
+- Interactive filtering for better insights
 
-Validated data consistency and structure
+### 8. Dashboard Development
+- Built an interactive and business-friendly HR Analytics dashboard
+- Focused on clarity and decision-making
 
-3. Power Query Transformations
+### 9. Export Power BI Dashboard
+- Exported dashboard as image for documentation
+- Prepared project for GitHub portfolio
 
-Created calculated columns
+---
 
-Transformed and prepared data for analysis
+## Key Metrics
+- Total Employees
+- Attrition Count
+- Attrition Rate
+- Average Age
+- Average Salary
+- Years at Company
 
-4. DAX Measures & Calculations
+---
 
-Attrition Count
+## Insights from Dashboard
+- Highest attrition observed in the 26–35 age group
+- Employees in lower salary slabs show higher attrition
+- Sales Executive and Laboratory Technician roles have maximum attrition
+- Attrition is highest during the early years at the company
+- Male attrition is higher compared to female employees
 
-Attrition Rate
+---
 
-Average Age
 
-Average Salary
 
-Years at Company
+---
 
-Role-wise, Age-wise, Gender-wise attrition
+## Key Learnings
+- Hands-on experience in data cleaning and transformation using Power Query
+- Strong understanding of DAX measures and calculations
+- Ability to design interactive Power BI dashboards
+- Improved analytical and problem-solving skills
+- Learned to convert business problems into actionable insights
 
-5. Dashboard Setup
+---
 
-Defined KPIs and business requirements
+## Author
+Shreya Dhanaji Patil  
+Aspiring Data Analyst | Power BI | Excel | SQL | Python
 
-Designed layout and theme for clear storytelling
+---
 
-6. Charts & Visualizations
-
-KPI Cards
-
-Bar Charts
-
-Line Charts
-
-Donut Charts
-
-Tables for job role analysis
-
-7. Filters & Slicers
-
-Department-wise navigation
-
-Interactive filters for deeper analysis
-
-8. Dashboard Development
-
-Built an interactive and user-friendly HR Analytics dashboard
-
-Focused on business insights and decision-making
-
-9. Export Dashboard
-
-Exported Power BI dashboard as image
-
-Prepared files for GitHub and portfolio presentation
-
-Key Metrics
-
-Total Employees
-
-Attrition Count
-
-Attrition Rate
-
-Average Age
-
-Average Salary
-
-Years at Company
-
-Insights from Dashboard
-
-Highest attrition observed in the 26–35 age group
-
-Employees in lower salary slabs show higher attrition
-
-Sales Executive and Laboratory Technician roles have maximum attrition
-
-Attrition is highest during the early years at the company
-
-Male attrition is higher compared to female employees
-
-Dashboard Preview
-
-Key Learnings
-
-Hands-on experience in data cleaning and transformation using Power Query
-
-Strong understanding of DAX measures and calculations
-
-Ability to design interactive Power BI dashboards
-
-Improved analytical and problem-solving skills
-
-Learned how to convert business problems into actionable insights
-
-Author
-
-Shreya Dhanaji Patil
-Aspiring Data Analyst | Power BI | SQL | Excel | Python
